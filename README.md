@@ -7,3 +7,5 @@ En este repositorio contiene libros sobre programacion e ingeniería, entre esto
 - [Lenguajes de programación](./libros/lenguajes/)
 - [Matematicas](./libros/matematica/)
 - [Arquitectura de software](./libros/arquitectura/)
+- [Data science](./libros/data/)
+- [GNU/Linux](./libros/linux/)
